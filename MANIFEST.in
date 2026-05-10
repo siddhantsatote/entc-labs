@@ -1,0 +1,2 @@
+recursive-include entc_labs/experiments *.v *.xpr *.tcl *.wcfg *.txt *.md
+recursive-include entc_labs/experiments *
